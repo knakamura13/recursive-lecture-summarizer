@@ -1,0 +1,46 @@
+Question 1
+What is a Markov Decision Process (MDP) primarily used for in reinforcement learning?
+A. To model deterministic environments where the outcome of each action is predictable.
+B. To represent decision-making scenarios that involve uncertainties and probabilistic outcomes.
+C. To optimize linear transformation algorithms for feature selection.
+D. To directly learn the policy which maps states to actions without using value functions.
+E. To solve problems where the transition and reward functions are known in advance.
+
+Question 2
+In the context of MDPs, what does the Markovian property imply about the transition function?
+A. It depends on the entire history of past states and actions.
+B. It only depends on the current state and not on any past states.
+C. It is always deterministic and can be predicted with complete accuracy.
+D. It is irrelevant as long as the reward function is well-defined.
+E. It changes over time and does not maintain stationarity.
+
+Question 3
+What is the purpose of introducing stochasticity (uncertainty) in actions within a Markov Decision Process?
+A. To simplify the computation of the optimal policy.
+B. To model real-world scenarios where actions do not always lead to predictable outcomes.
+C. To ensure that all actions have the same probability of success.
+D. To eliminate the need for a transition model in decision-making.
+E. To focus solely on immediate rewards rather than long-term outcomes.
+
+Question 4
+How is the utility of a sequence of states in an MDP typically calculated?
+A. By counting the number of states visited.
+B. By multiplying the rewards of each state.
+C. By adding up all the rewards received in those states.
+D. By averaging the rewards over the total number of states.
+E. By considering only the rewards of the final state in the sequence.
+
+Question 5
+What is the primary goal of using discounted rewards in Markov Decision Processes?
+A. To increase the importance of immediate rewards over future rewards.
+B. To ensure that the sum of rewards over an infinite sequence is finite.
+C. To prioritize actions that lead to higher rewards in the shortest time.
+D. To eliminate the need for a policy in decision-making.
+E. To simplify the calculation of the transition model in an MDP.
+
+Answer Key
+1. B
+2. B
+3. B
+4. C
+5. B

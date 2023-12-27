@@ -1,0 +1,46 @@
+Question 1
+What is the primary goal of feature transformation in machine learning?
+A. To create a new set of features that is more compact while retaining as much relevant and useful information as possible.
+B. To classify and label data in supervised learning.
+C. To increase the dimensionality of the feature space.
+D. To focus only on feature selection without creating new features.
+E. To apply non-linear transformations to all features.
+
+Question 2
+What is the main problem addressed by feature transformation when using words as features in machine learning?
+A. The difficulty in finding synonyms for each word.
+B. The challenge of defining words in different languages.
+C. The issues of polysemy (multiple meanings) and synonymy (same meaning) leading to false positives and negatives.
+D. The inability to use words as features in numerical algorithms.
+E. The excessive time required to process textual data.
+
+Question 3
+What does Principal Components Analysis (PCA) primarily focus on in feature transformation?
+A. Maximizing the statistical independence between new features.
+B. Finding directions that maximize variance and are mutually orthogonal.
+C. Reducing the dimensionality by creating new features based on correlations.
+D. Identifying the least variance in the data for dimension reduction.
+E. Creating non-linear combinations of the original features.
+
+Question 4
+Which of the following is a key difference between Principal Component Analysis (PCA) and Independent Component Analysis (ICA)?
+A. PCA focuses on maximizing independence, while ICA focuses on maximizing correlation.
+B. PCA aims to find dimensions that maximize variance, while ICA focuses on finding mutually independent features.
+C. PCA is used only in supervised learning, while ICA is used in unsupervised learning.
+D. PCA transforms features into new features with maximum entropy, while ICA minimizes entropy.
+E. PCA and ICA are identical in terms of their goals and methods.
+
+Question 5
+What is the main advantage of Random Components Analysis (RCA) in feature transformation?
+A. It produces more complex models than PCA and ICA.
+B. It is cheaper and faster to implement.
+C. It focuses on maximizing the mutual information.
+D. It uses non-linear transformations for better accuracy.
+E. It requires a larger number of dimensions than PCA.
+
+Answer Key
+1. A
+2. C
+3. B
+4. B
+5. B

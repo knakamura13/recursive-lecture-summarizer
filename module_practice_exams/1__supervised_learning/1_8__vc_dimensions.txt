@@ -1,0 +1,46 @@
+Question 1
+Which of the following statements correctly reflect the concepts discussed in VC Dimensions?
+A. The number of samples needed to learn a classifier is inversely proportional to the size of the hypothesis space.
+B. The formula for bounding the number of samples needed includes ε, representing the error parameter, and δ, representing the failure parameter.
+C. In machine learning, it's established that all hypothesis spaces are finite.
+D. The VC dimension of a hypothesis space does not influence the amount of data required for effective learning.
+E. In VC dimensions, the concept of shattering is used to determine the largest set of inputs that a hypothesis space can label in all possible ways.
+
+Question 2
+Regarding the characteristics and implications of hypothesis spaces, which of the following are true?
+A. All machine learning hypothesis spaces, including linear separators and neural networks, are finite.
+B. The hypothesis space of k-nearest neighbors (k-NN) is subject to interpretation and may be considered either finite or infinite.
+C. The VC dimension is irrelevant in determining the power of a hypothesis space.
+D. For a hypothesis space, the largest set of inputs it can label in all possible ways is a measure of its power.
+E. In hypothesis spaces, syntactically infinitely many functions can always be represented by a finite set of semantically different functions.
+
+Question 3
+Concerning the concept of VC dimensions and linear separators, which statements are correct?
+A. The VC dimension of linear separators is determined to be 4 in two-dimensional space.
+B. The VC dimension for linear separators can be easily determined in three-dimensional space.
+C. Linear separators are defined by a weight parameter, w, and a threshold, theta, which create a line separating positive and negative examples.
+D. In a two-dimensional space, three points on a number line can always be separated by a linear separator.
+E. The VC dimension of linear separators is determined to be 3 in two-dimensional space.
+
+Question 4
+What are the key aspects and implications of VC dimensions in machine learning?
+A. The VC dimension is unrelated to the number of parameters needed to represent hypothesis spaces.
+B. The VC dimension of a d-dimensional hyperplane concept is d + 1.
+C. Convex polygons have a finite VC dimension.
+D. The sample complexity in machine learning is not connected to the VC dimension of a hypothesis class.
+E. The VC dimension plays a similar role to the natural log of the size of the hypothesis space in finite cases.
+
+Question 5
+Regarding the relationship between VC dimensions and finite hypothesis spaces, which of the following statements are accurate?
+A. The VC dimension of a finite hypothesis class is always greater than the logarithm base 2 of the size of the hypothesis class.
+B. If the VC dimension of a hypothesis class is finite, then the class cannot be PAC-learnable.
+C. The relationship between the size of a finite hypothesis class and its VC dimension is logarithmic.
+D. A finite hypothesis class with an infinite VC dimension is PAC-learnable.
+E. For a finite hypothesis class, the concept of PAC-learnability is unrelated to its VC dimension.
+
+Answer Key
+1. B, E
+2. B, D
+3. C, E
+4. B, E
+5. C

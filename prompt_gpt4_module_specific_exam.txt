@@ -1,0 +1,14 @@
+The following text is a summary of the transcripts from one module of the lectures in CS7641 ML. Use the information in the summary to get an idea of what was taught in this course.
+
+Then, create a practice exam with 5 questions, following these rules:
+1. The questions must be multiple-choice, with multiple correct choices per question.
+2. Each question should have at least one correct choice but no more than four correct choices.
+3. Each question must have five choices.
+4. The choices should be labeled A, B, C, D, E.
+5. Make the exam difficult, but ensure all questions and answers are pulled directly from the lecture material.
+6. Try to disambiguate the choices and avoid writing questions that rely on a technicality or a "trick" answer.
+7. Try to cover the breadth of the lectures in the module so that the exam addresses the most critical information from the lectures.
+
+Do not show me the answers. Instead, show me an answer key at the end of your response so that I can test myself.
+---
+Here is the summary of the lecture module:

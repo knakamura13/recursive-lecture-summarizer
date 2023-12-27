@@ -1,0 +1,46 @@
+Question 1
+What is the primary purpose of Bayesian Networks in machine learning?
+A. To simplify complex calculations by using linear algorithms.
+B. To represent and manipulate probabilistic quantities over complex spaces.
+C. To directly calculate joint distributions without any form of representation.
+D. To provide a deterministic approach to machine learning problems.
+E. To eliminate the need for conditional probabilities in computations.
+
+Question 2
+In Bayesian Inference, what does a joint distribution represent?
+A. The correlation between different variables in a dataset.
+B. The probability of various combinations of events occurring.
+C. A deterministic relationship between variables.
+D. The frequency of singular events in isolation.
+E. The probability of an event occurring in the absence of other events.
+
+Question 3
+How does conditional independence affect the representation of variables in Bayesian Networks?
+A. It indicates that the value of one variable completely depends on another variable.
+B. It shows that variables are independent of each other regardless of other variables.
+C. It means the probability distribution of a variable X is independent of variable Y, given variable Z.
+D. It removes the need to consider any dependencies between variables.
+E. It suggests that variables are always dependent, and their relationships are deterministic.
+
+Question 4
+What is the significance of Naive Bayes in Bayesian Inference?
+A. It assumes that all variables are dependent on each other.
+B. It relies on the assumption of conditional independence between attributes given the label for efficient classification.
+C. Naive Bayes eliminates the need for probabilities in computations.
+D. It is a method that only works with numerical data.
+E. It focuses on complex computations rather than practicality.
+
+Question 5
+Why is sampling from a joint distribution important in Bayesian Inference?
+A. It allows for the generation of values consistent with a given distribution and supports approximate inference.
+B. Sampling is used primarily to simplify complex graphical representations.
+C. It ensures the accuracy of the Bayesian network by verifying all possible combinations of variables.
+D. Sampling is only used for visualizing data, not for computational purposes.
+E. It is a process used to determine the exact probabilities of all variables without using Bayes' rule.
+
+Answer Key
+1. B
+2. B
+3. C
+4. B
+5. A

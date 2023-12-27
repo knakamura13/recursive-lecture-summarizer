@@ -1,0 +1,46 @@
+Question 1
+What is the primary aim of Bayesian Learning in machine learning?
+A. To find the hypothesis with the lowest probability given data and domain knowledge.
+B. To identify the hypothesis with the highest probability, represented as the argmax of h given some data D.
+C. To eliminate all hypotheses that do not perfectly align with the given data.
+D. To focus solely on prior probabilities without considering new data.
+E. To prioritize computational efficiency over accuracy in hypothesis selection.
+
+Question 2
+In the context of Bayesian Learning, how is Bayes' Rule significant?
+A. It eliminates the need for prior probabilities in the calculation.
+B. It relates the probability of a hypothesis given data to the probability of data given the hypothesis.
+C. It suggests that the probability of the data given the hypothesis is not important.
+D. Bayes' Rule states that the likelihood of seeing data is independent of the hypothesis.
+E. It calculates the probability of the data without considering the hypothesis.
+
+Question 3
+How does noisy data affect the computation of probabilities in Bayesian Learning?
+A. Noisy data does not affect probabilities in Bayesian Learning.
+B. Noisy data leads to disregarding the probability of observing the dataset if the hypothesis is true.
+C. It involves adjusting the probabilities for each data item based on the noise factor and multiplying these probabilities.
+D. The probability of noisy data is always zero.
+E. Noisy data in Bayesian Learning is handled by assuming a constant multiplier for all data items.
+
+Question 4
+What is the Minimum Description Length (MDL) principle in Bayesian Learning, and how is it applied?
+A. MDL prioritizes maximizing the length of the hypothesis and the data.
+B. It involves minimizing the sum of the length of the probability of the data given the hypothesis and the length of the hypothesis itself.
+C. MDL suggests that larger decision trees are more likely than smaller ones.
+D. It focuses on maximizing error and complexity to find the simplest hypothesis.
+E. MDL is a technique that only applies to neural networks and not to decision trees.
+
+Question 5
+In Bayesian Classification, how is the best label for an input determined?
+A. By selecting the hypothesis with the minimum probability given the data.
+B. Through a weighted vote based on the probability of each hypothesis given the data.
+C. The best label is always the one with the highest prior probability, regardless of the data.
+D. By choosing the label that minimizes the maximum a posteriori hypothesis.
+E. Bayesian Classification does not involve finding the best label for an input.
+
+Answer Key
+1. B
+2. B
+3. C
+4. B
+5. B

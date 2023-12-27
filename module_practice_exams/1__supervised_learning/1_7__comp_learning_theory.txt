@@ -1,0 +1,46 @@
+Question 1
+Which of the following statements correctly reflect the concepts discussed in Computational Learning Theory?
+A. In computational learning theory, algorithms are primarily analyzed in terms of their accuracy, disregarding time and space resources.
+B. Inductive learning is defined as learning from examples, focusing on the probability of success and the complexity of the hypothesis class.
+C. The complexity of the hypothesis class has no impact on the risk of overfitting in machine learning algorithms.
+D. In machine learning, training examples are only presented in a batch format, where a fixed training set is provided.
+E. Different methods of selecting training examples, such as the learner asking questions or the teacher providing pairs, are crucial in understanding machine learning.
+
+Question 2
+Regarding the resources and efficiency of learning algorithms, which of the following are true?
+A. Time efficiency of algorithms is irrelevant in computational learning theory.
+B. Space efficiency, especially in algorithms with exponential space complexities, is a major consideration in machine learning.
+C. Data, in terms of availability and quality of training samples, is not considered a significant resource in machine learning algorithms.
+D. Managing time, space, and data efficiently is crucial for the effectiveness of a learning algorithm.
+E. Algorithms requiring large amounts of space are preferred due to their comprehensive data handling capacity.
+
+Question 3
+Concerning the concept of teaching and learning in machine learning, which statements are correct?
+A. The teacher’s role in selecting training examples is insignificant in the learning process.
+B. The learner's task of finding the best hypothesis is equally challenging, whether the teacher selects the questions or the learner asks them.
+C. A helpful teacher can significantly reduce the number of questions required for the learner to identify the right hypothesis.
+D. The learner's ability to ask questions that split the hypothesis set in half is not crucial for efficient learning.
+E. Teaching via 20 questions demonstrates that with a helpful teacher, the correct answer can be obtained in one question.
+
+Question 4
+What are the key aspects and implications of resource management in learning algorithms?
+A. The efficiency of algorithms in terms of time and space has a minor impact on their practical application.
+B. The goal is to select algorithms that run in the shortest amount of time and require the least amount of space.
+C. Managing data as a resource involves considering the quantity of data but not its quality.
+D. A learning algorithm's ability to learn well with a small amount of samples indicates ineffective generalization.
+E. Time, space, and data are the three main resources that need to be managed in a learning algorithm.
+
+Question 5
+Regarding the theoretical aspects and implications of computational learning theory, which of the following statements are accurate?
+A. Computational learning theory does not involve mathematical reasoning and careful definitions.
+B. Upper-bound analysis in computational learning theory is concerned with fundamentally hard problems that cannot be improved.
+C. Lower-bound analysis focuses on improving algorithms and their performance.
+D. Practical algorithms are not relevant in illuminating the fundamental learning questions in computational learning theory.
+E. The theory draws parallels between analyzing algorithms in computing and understanding learning algorithms' functionality.
+
+Answer Key
+1. B, E
+2. B, D
+3. C, E
+4. B, E
+5. E

@@ -1,0 +1,46 @@
+Question 1
+Which statements correctly reflect the concepts discussed in the lectures on Support Vector Machines (SVMs) and Kernel Methods?
+A. The goal of SVMs is to find a decision boundary that minimizes the distance between the boundary and the data points.
+B. In SVMs, the equation of the decision boundary is defined as \( w^T x + b = 0 \), where \( w \) represents the parameters of the plane.
+C. The best line for separating two classes is always the one closest to the positive or negative data points.
+D. Support vectors are data points that are farthest from the decision boundary and have the least influence on its placement.
+E. The kernel function in SVMs is used to transform data into a higher-dimensional space, facilitating linear separability.
+
+Question 2
+Regarding the application and properties of SVMs, which of the following are true?
+A. Maximizing the margin in SVMs is equivalent to maximizing the equation \( \frac{2}{||w||} \).
+B. In SVMs, the optimal decision boundary is found by minimizing \( \frac{1}{2} \times ||w||^2 \).
+C. Support vectors in SVMs are usually a small subset of the data points that define the maximum margin separator.
+D. The kernel trick in SVMs only applies to polynomial and radial basis functions.
+E. The Mercer Condition is not a significant consideration when choosing kernel functions in SVMs.
+
+Question 3
+Concerning the concept of boosting in relation to SVMs, which statements are correct?
+A. Boosting focuses on misclassified examples by decreasing their importance in each iteration.
+B. In boosting, the final output is a simple average of weak hypotheses.
+C. Boosting increases the margin between positive and negative examples, helping to minimize overfitting.
+D. Boosting tends to overfit when the weak learner is an artificial neural network with many layers and nodes.
+E. The effectiveness of boosting is independent of the length of training time.
+
+Question 4
+What are the key aspects and implications of kernel methods in SVMs?
+A. Kernel methods can only represent similarity between vectors in a geometric sense.
+B. The use of a kernel function is restricted to cases where the data is already linearly separable.
+C. Kernel functions in SVMs allow for the incorporation of domain knowledge without computing points in a higher-dimensional space.
+D. The squared dot product is the only kernel function used in SVMs.
+E. Different types of kernels, like polynomial and radial basis kernels, are used in SVMs to capture domain knowledge and measure similarity.
+
+Question 5
+Regarding the theoretical aspects and implications of SVMs, which of the following statements are accurate?
+A. The concept of margins in SVMs is unrelated to generalization and overfitting.
+B. SVMs always require a large number of support vectors to define the maximum margin separator.
+C. SVMs are connected to instance-based learning and ensemble methods through the concept of margins.
+D. The optimization problem in SVMs is formulated as a quadratic program to find the maximum margin separator.
+E. In SVMs, the dot product in the kernel trick is irrelevant to the concept of similarity between data points.
+
+Answer Key
+1. B, E
+2. A, B, C
+3. C, D
+4. C, E
+5. C, D

@@ -1,0 +1,46 @@
+Question 1
+In the iterated prisoner's dilemma, if the number of rounds is known and finite, what is the rational strategy for players in each round?
+A. Always cooperate.
+B. Always defect.
+C. Alternate between cooperating and defecting.
+D. Cooperate in the first half, defect in the second half.
+E. Defect in the first half, cooperate in the second half.
+
+Question 2
+In the context of uncertain ending in game theory, what does the gamma (γ) represent in a game where after each round, a coin is flipped to decide if the game ends or continues?
+A. The probability of the game ending after each round.
+B. The probability of the game continuing after each round.
+C. The expected number of rounds in the game.
+D. The total reward accumulated by the end of the game.
+E. The discount factor for future rewards.
+
+Question 3
+What is the primary strategy of the "tit for tat" approach in the iterated prisoner's dilemma?
+A. Start by defecting and then copy the opponent's last move.
+B. Always cooperate regardless of the opponent's move.
+C. Start by cooperating and then copy the opponent's last move.
+D. Alternate between cooperating and defecting every round.
+E. Defect whenever the opponent cooperates.
+
+Question 4
+In the context of facing the tit for tat strategy, under what condition is it more favorable to always cooperate rather than always defect?
+A. When the discount factor gamma (γ) is less than 1/6.
+B. When the discount factor gamma (γ) is greater than 1/6.
+C. When the number of rounds in the game is known.
+D. When the opponent has a higher probability of defecting.
+E. When the game is zero-sum.
+
+Question 5
+What does the Folk Theorem in game theory state about repeated games?
+A. Any feasible payoff profile that is better than the minimum security level can be achieved as a Nash equilibrium payoff profile.
+B. The best strategy in repeated games is to always cooperate.
+C. Repeated games always result in both players defecting.
+D. The outcome of repeated games is always unpredictable.
+E. Cooperation is never a stable strategy in repeated games.
+
+Answer Key
+1. B
+2. B
+3. C
+4. B
+5. A

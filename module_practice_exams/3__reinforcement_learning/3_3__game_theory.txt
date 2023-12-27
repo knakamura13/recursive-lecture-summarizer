@@ -1,0 +1,46 @@
+Question 1
+What is the fundamental concept of Game Theory?
+A. It is solely focused on single-agent decision-making scenarios.
+B. It deals with the mathematics of conflict and optimal choices in conflicts of interest considering the goals of multiple agents.
+C. It is a framework used for deterministic decision-making with complete information.
+D. Game theory is primarily concerned with individual agents working towards aligned goals.
+E. It is an approach used to describe linear transformation algorithms in machine learning.
+
+Question 2
+In a two-player zero-sum finite deterministic game of perfect information, what does a strategy in game theory represent?
+A. A random sequence of actions chosen by a player.
+B. The total sum of rewards accumulated by a player.
+C. A deterministic mapping of states to actions for each player.
+D. The sequence of states that a player will visit during the game.
+E. A probabilistic distribution of possible actions for a player.
+
+Question 3
+What is the significance of a 'mixed strategy' in game theory?
+A. It represents a sequence of deterministic strategies chosen by a player.
+B. It is a strategy that involves randomizing between pure strategies with specific probabilities.
+C. Mixed strategies are only used in non-deterministic games.
+D. It is a strategy where a player chooses the same action repeatedly.
+E. Mixed strategies are used to calculate the exact value of the game.
+
+Question 4
+In the context of game theory, what is a Nash Equilibrium?
+A. A scenario where the sum of all players' rewards is maximized.
+B. A state where each player has chosen a strategy that maximizes their utility, given the strategies of other players.
+C. The point in the game where all players have the same amount of information.
+D. A situation where all players choose to cooperate for the greater good.
+E. The outcome where one player's gain is equivalent to another player's loss.
+
+Question 5
+What does the Minimax strategy in game theory aim to achieve?
+A. To maximize the maximum possible reward for a player.
+B. To minimize the risk by choosing the safest strategy.
+C. To minimize the worst-case scenario for a player, assuming the opponent is trying to maximize their own reward.
+D. To find a middle ground between the best and worst outcomes.
+E. To create a balance between the number of wins and losses.
+
+Answer Key
+1. B
+2. C
+3. B
+4. B
+5. C

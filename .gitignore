@@ -2,3 +2,4 @@ venv/
 .env
 .idea/
 .DS_Store
+gpt_logs/*

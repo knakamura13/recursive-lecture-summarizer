@@ -1,0 +1,9 @@
+PROMPT:
+
+But this is where we’re going to spend most of our time talking about it first as a classification task. So taking some kind of input, in this case pictures, and mapping it to some discrete number of labels, true or false, male or female, car versus cougar, anything that, that you might imagine thinking of. Car versus cougar? Yes. That, I guess that’s an important thing if you’re driving. You don’t want to run into any cougars or probably other cars either. Well you know, you’re sitting down and you’re trying to decide whether you should ride this thing that you see or not. And if its a cougar maybe you don’t want to and if it’s a car maybe you do. Excellent. Don’t drive a cougar. Don’t drive a cougar. That’s the first lesson in machine learning. Excellent. Okay, so that’s classification. We’ll return to regression in a little bit later during this conversation. But, just as a preview, regression is more about continuous value function. So, something like giving a bunch of points.
+
+==========
+
+RESPONSE:
+
+The text primarily introduces the concept of classification in the context of machine learning as a task where inputs, like images, are categorized into discrete labels such as true/false or male/female. It humorously uses the example of distinguishing between a car and a cougar to illustrate its importance, particularly in situations like driving, where making the correct identification can be crucial. The less-discussed concept of regression is briefly mentioned as a task dealing with continuous value functions, with the promise to return to it later in the conversation. The principal takeaways are the definition of classification, its relevance in practical scenarios, and the mention of regression as another type of machine learning task.

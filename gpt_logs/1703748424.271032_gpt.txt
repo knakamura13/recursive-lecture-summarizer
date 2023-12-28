@@ -1,0 +1,10 @@
+PROMPT:
+
+1.1.2 Classification or Regression Question
+So we’ve talked about uh,classification and regression and gave a couple of examples of each. So now I want you to take a moment to make certain that you understand the difference because it’s a crucial difference for supervised learning. Here’s a very short little quiz. You have three questions here and we divided the world up into some input to some learning algorithm, whatever that learning algorithm is. The output that we’re expecting and then a box for you to tell us whether its classification or regression. So, the first question, the input is credit history, whatever that means, the number of loans that you have, how much money you make, how many times you’ve defaulted, how many times you’ve been late, the sort of things that make up credit history, and the output of the learning algorithm is rather you should lend money or not.
+
+==========
+
+RESPONSE:
+
+The text discusses the fundamental distinction between classification and regression in the context of supervised machine learning. It emphasizes the importance of understanding the difference through an exercise consisting of three questions testing one's ability to discern between the two. The provided example poses an input scenario involving credit history details, such as the number of loans, income, and default frequency. The expected output is a decision on whether to lend money or not, implying a question to categorize as either classification or regression.

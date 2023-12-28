@@ -1,0 +1,9 @@
+PROMPT:
+
+I want to give in a new point. I want to map it to some real value. So we may pretend that these are examples of a line and so given a point here, I might say the output is right there. Okay, so that’s regression but we’ll talk about that in a moment. Right now, what I want to talk about is classification. Would an example of regression also be, for example, mapping the pictures of me to the length of my hair? Like a number that represents the length of my hair? Absolutely, for the purposes of, of the sort of things that we’re going to be worried about you can really think of the difference between classification and regression is the difference between mapping from some input to some small number of discrete values which might represent concepts. And regression is mapping from some input space to some real number. Potentially infinite number of real numbers. Cool, let’s do a, let’s do a quiz. Make sure we get this. Okay, I like that.
+
+==========
+
+RESPONSE:
+
+The text introduces the concept of regression in the context of machine learning, distinguishing it from classification. Regression involves mapping inputs to a continuous range of real numbers (e.g., using a person's photo to predict hair length), potentially an infinite spectrum. In contrast, classification deals with mapping inputs to a limited set of discrete values, often representing categories or concepts. The speaker aims to clarify the distinction before moving on to a quiz to reinforce the concept.
